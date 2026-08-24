@@ -1,4 +1,5 @@
 **HI, I'M SAGARIKA SAHOO**
+🌟 **[Click here to view my Developer Portfolio & Live CP Stats!](https://sagarika-dev-sys.github.io)** 🌟
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
